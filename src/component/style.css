@@ -1,0 +1,43 @@
+.App{
+    width: 100vw;
+    height: 100vh;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(235,174,0,1) 0%, rgba(0,212,255,1) 100%);
+    display: block;
+    
+}
+
+.flex{
+
+    display: flex;
+    justify-content: center;
+}
+
+.both{
+    font-size: 10px;
+    font-style: bold;
+    border-radius: 5em;
+    margin: 3em;
+    width: 15em;
+    height: 2em;
+    padding: 2em;
+    background-color: red;
+}
+.functiontoggle{
+    display: flex;
+}
+.externalCss{
+    color: rgb(129, 45, 189);
+}
+.togglefirst{
+    background-color: rgb(100, 218, 218);
+    width: 28em;
+    height: 15em;
+    border-radius: 2em;
+    margin: 20px;
+    border: 2px solid ;
+    
+}
+.externalCss1{
+    color: rgb(167, 136, 189);
+}
